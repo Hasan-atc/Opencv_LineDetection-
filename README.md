@@ -1,2 +1,3 @@
 # Opencv_LineDetection-
-Here is the python code that detects the strips in the given example videos.
+
+The current code is valid for certain videos. If you want to follow the lane in your private videos, you should change the parameters in the "incelenecek_bolge" function.
